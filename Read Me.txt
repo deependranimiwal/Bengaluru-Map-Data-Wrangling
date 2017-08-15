@@ -1,0 +1,12 @@
+Note:-Database File and Full Map OSM File is not included as per the instructions.
+
+
+File Details:-
+
+Bengaluru City:- Contains city info and Map link.
+bengaluru_sample:- contains map sample data.
+audit_city.py :- contains code to audit the city tag.
+audit_postcode :- contains code to audit the postcode.
+audit_street :- conatins code to audit street tags.
+audit_tags :- contains code to audit k attribute of tag.
+data.py :- contains code to clean and update data in csv file.
